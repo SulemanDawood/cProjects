@@ -11,14 +11,10 @@ void voidfunc2();
 void masterfunc();
 float floatfunc();
 
-
 void main()
 {
-
  masterfunc();
-    
- 
-}
+} // main
 
 
 /* New function void
@@ -30,10 +26,6 @@ typesfunc();
 voidfunc();
     
 }
-
-
-
-
 
 void voidfunc()
 {
