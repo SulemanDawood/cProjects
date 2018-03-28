@@ -97,6 +97,7 @@ int arrayFunc3()
     printf("Average of array values is %.2f.\n", avg);
 }   //  arrayFunc3
 
+// Uses for loop to find largest value in array
 int arrayFunc4()
 {
     int array[10] = {1, 2,  3,  4,  5,  6,  7,  8,  9,  0};
