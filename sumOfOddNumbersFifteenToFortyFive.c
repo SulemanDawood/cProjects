@@ -1,5 +1,5 @@
 /* This program uses "for" loop 
-to print the some of numbers between 15 and 45 inclusive.
+to print the sum of numbers between 15 and 45 inclusive.
 Written by: Suleman Dawood
 Date: 03/27/2018
 */
