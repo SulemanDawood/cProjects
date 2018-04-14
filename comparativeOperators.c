@@ -24,6 +24,6 @@ int main (void)
     printf(" %2d !=  %2d is %2d\n", a, b, a != b);
     printf(" %2d >  %2d is %2d\n", a, b, a > b);
     printf(" %2d <=  %2d is %2d\n", a, b, a <= b);
-    printf(" %2d =>  %2d is %2d\n", a, b, a => b);
+    printf(" %2d >=  %2d is %2d\n", a, b, a >= b);
     return 0;
 }// main
